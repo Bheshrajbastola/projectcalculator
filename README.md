@@ -22,7 +22,8 @@
     
 # Output of the Project :
           
-                ![calculator](https://user-images.githubusercontent.com/85820273/125769038-07696b4b-7d74-41dd-8f7c-b07abcd5e77c.jpg)
+               ![calculator](https://user-images.githubusercontent.com/85820273/125769334-bac2153d-a782-46b0-9b7d-f3cd144c5fec.jpg)
+
 
 
        Bhesh Raj Bastola
