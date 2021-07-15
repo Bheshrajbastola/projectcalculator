@@ -21,8 +21,7 @@
     The code is running in the main loop() so that the program run until and unless the user execute it.
     
 # Output of the Project :
-          
-               ![calculator](https://user-images.githubusercontent.com/85820273/125769334-bac2153d-a782-46b0-9b7d-f3cd144c5fec.jpg)
+#![calculator](https://user-images.githubusercontent.com/85820273/125769334-bac2153d-a782-46b0-9b7d-f3cd144c5fec.jpg)
 
 
 
