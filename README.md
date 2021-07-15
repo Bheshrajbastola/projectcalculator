@@ -26,6 +26,4 @@
 
 
 
-       Bhesh Raj Bastola
-       Student id: 210203
-       Batch 30 B computing.
+     
