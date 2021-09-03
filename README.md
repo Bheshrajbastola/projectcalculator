@@ -3,7 +3,7 @@
 #     Design and function:
                   I have desigh the simple calculator which perform the simple mathmetical calculation like sum ,minus , division , modulous. 
                   And we can also  clear the screen by using clear button on it.
-
+               Further working in this project to make the back button work once . so the user can delete their output one by one as needed.
 
  # Function and code explain:
              
